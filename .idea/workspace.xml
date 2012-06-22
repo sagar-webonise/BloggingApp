@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d189a26-e3c1-41a5-bcb7-5eb8d54015ac" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/View/Posts/edit.ctp" afterPath="$PROJECT_DIR$/app/View/Posts/edit.ctp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/View/Posts/index.ctp" afterPath="$PROJECT_DIR$/app/View/Posts/index.ctp" />
-    </list>
+    <list default="true" id="1d189a26-e3c1-41a5-bcb7-5eb8d54015ac" name="Default" comment="" />
     <ignored path="cake_2_0.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
