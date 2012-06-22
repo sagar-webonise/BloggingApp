@@ -1,0 +1,9 @@
+<?php
+
+class Post extends AppModel{
+    var $_schema = array(
+        'name'		=>array('type'=>'string', 'length'=>100),
+        'email'		=>array('type'=>'string', 'length'=>255),
+        'details'	=>array('type'=>'text')
+    );
+}
