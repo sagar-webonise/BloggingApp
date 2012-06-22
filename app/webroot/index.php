@@ -35,7 +35,7 @@
  *
  */
 	if (!defined('ROOT')) {
-		define('ROOT', DS.'var'.DS.'www'.DS.'testProject');
+		define('ROOT', DS.'home'.DS.'webonise'.DS.'www.blogging.com');
 	}
 /**
  * The actual directory name for the "app".
